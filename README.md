@@ -118,16 +118,13 @@ This program is open-source and available under the [MIT License](LICENSE). You 
 To get started with the program, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/leaomercanti/Course_Advanced_Investing_with_AI.git
+git clone https://github.com/leomercanti/Course_Advanced_Investing_with_AI.git
 cd Course_Advanced_Investing_with_AI
 ```
 
 ### **Dependencies**
-Before running the code, make sure you have the necessary Python libraries installed:
+Before running the code, make sure you have the necessary Python libraries installed.
 
-```bash
-pip install -r requirements.txt
-```
 
 ### **Modules**
 - **Module 1/**: Scripts for foundational machine learning models.
