@@ -65,34 +65,12 @@ Before starting, ensure you have the following installed:
 
 ### **Installation**
 
-1. **Clone the repository:**
+**Clone the repository:**
 
    ```bash
    git clone https://github.com/leomercanti/Course_Advanced_Investing_with_AI.git
    cd ai-in-financial-markets
    ```
-
-2. **Install the required packages:**
-
-3. **Optional - Configure Alpaca API:**
-
-   To access live trading data, configure the Alpaca API with your API keys. You'll need to register at [Alpaca](https://alpaca.markets/) and get your API key and secret.
-
-   Set up your environment variables:
-
-   ```bash
-   export APCA_API_KEY_ID='your_api_key'
-   export APCA_API_SECRET_KEY='your_secret_key'
-   ```
-
-4. **Run Jupyter Notebooks:**
-
-   To experiment with the course modules and start coding, run the following:
-
-   ```bash
-   jupyter notebook
-   ```
-   
 ---
 
 ## **Contributing**
@@ -118,6 +96,8 @@ For questions or feedback, feel free to reach out at:
 
 - **Email:** leandrobezerrarj@hotmail.com
 - **LinkedIn:** [Leo Mercanti](https://www.linkedin.com/in/leo-mercanti/)
+
+---
 
 Happy trading, and welcome to the future of AI in Finance!
 
